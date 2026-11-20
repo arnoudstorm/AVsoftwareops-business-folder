@@ -1,3 +1,17 @@
+our start of the development of the AV-software-ops business company
+
+//to-do's//
+
+
+
+
+//stack//
+
+
+
+//services
+
+
         <style>
             .navbar {
                 background: linear-gradient(to right, #D4AF37, #FFD700)
