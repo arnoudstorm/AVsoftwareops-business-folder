@@ -1,0 +1,728 @@
+[
+  {
+    "name": "log-in",
+    "category": "auth",
+    "path": "icons/auth/log-in.svg",
+    "style": "outline"
+  },
+  {
+    "name": "log-out",
+    "category": "auth",
+    "path": "icons/auth/log-out.svg",
+    "style": "outline"
+  },
+  {
+    "name": "user",
+    "category": "auth",
+    "path": "icons/auth/user.svg",
+    "style": "outline"
+  },
+  {
+    "name": "user-filled",
+    "category": "auth",
+    "path": "icons/auth/user-filled.svg",
+    "style": "filled"
+  },
+  {
+    "name": "user-plus",
+    "category": "auth",
+    "path": "icons/auth/user-plus.svg",
+    "style": "outline"
+  },
+  {
+    "name": "mail",
+    "category": "auth",
+    "path": "icons/auth/mail.svg",
+    "style": "outline"
+  },
+  {
+    "name": "mail-filled",
+    "category": "auth",
+    "path": "icons/auth/mail-filled.svg",
+    "style": "filled"
+  },
+  {
+    "name": "lock",
+    "category": "auth",
+    "path": "icons/auth/lock.svg",
+    "style": "outline"
+  },
+  {
+    "name": "lock-filled",
+    "category": "auth",
+    "path": "icons/auth/lock-filled.svg",
+    "style": "filled"
+  },
+  {
+    "name": "unlock",
+    "category": "auth",
+    "path": "icons/auth/unlock.svg",
+    "style": "outline"
+  },
+  {
+    "name": "eye",
+    "category": "auth",
+    "path": "icons/auth/eye.svg",
+    "style": "outline"
+  },
+  {
+    "name": "eye-off",
+    "category": "auth",
+    "path": "icons/auth/eye-off.svg",
+    "style": "outline"
+  },
+  {
+    "name": "key",
+    "category": "auth",
+    "path": "icons/auth/key.svg",
+    "style": "outline"
+  },
+  {
+    "name": "shield",
+    "category": "auth",
+    "path": "icons/auth/shield.svg",
+    "style": "outline"
+  },
+  {
+    "name": "shield-filled",
+    "category": "auth",
+    "path": "icons/auth/shield-filled.svg",
+    "style": "filled"
+  },
+  {
+    "name": "shield-check",
+    "category": "auth",
+    "path": "icons/auth/shield-check.svg",
+    "style": "outline"
+  },
+  {
+    "name": "smartphone",
+    "category": "auth",
+    "path": "icons/auth/smartphone.svg",
+    "style": "outline"
+  },
+  {
+    "name": "fingerprint",
+    "category": "auth",
+    "path": "icons/auth/fingerprint.svg",
+    "style": "outline"
+  },
+  {
+    "name": "badge-check",
+    "category": "auth",
+    "path": "icons/auth/badge-check.svg",
+    "style": "outline"
+  },
+  {
+    "name": "password-reset",
+    "category": "auth",
+    "path": "icons/auth/password-reset.svg",
+    "style": "outline"
+  },
+  {
+    "name": "qr-code",
+    "category": "auth",
+    "path": "icons/auth/qr-code.svg",
+    "style": "outline"
+  },
+  {
+    "name": "check-circle",
+    "category": "auth",
+    "path": "icons/auth/check-circle.svg",
+    "style": "outline"
+  },
+  {
+    "name": "check-circle-filled",
+    "category": "auth",
+    "path": "icons/auth/check-circle-filled.svg",
+    "style": "filled"
+  },
+  {
+    "name": "identity",
+    "category": "auth",
+    "path": "icons/auth/identity.svg",
+    "style": "outline"
+  },
+  {
+    "name": "session",
+    "category": "auth",
+    "path": "icons/auth/session.svg",
+    "style": "outline"
+  },
+  {
+    "name": "home",
+    "category": "navigation",
+    "path": "icons/navigation/home.svg",
+    "style": "outline"
+  },
+  {
+    "name": "home-filled",
+    "category": "navigation",
+    "path": "icons/navigation/home-filled.svg",
+    "style": "filled"
+  },
+  {
+    "name": "menu",
+    "category": "navigation",
+    "path": "icons/navigation/menu.svg",
+    "style": "outline"
+  },
+  {
+    "name": "search",
+    "category": "navigation",
+    "path": "icons/navigation/search.svg",
+    "style": "outline"
+  },
+  {
+    "name": "grid",
+    "category": "navigation",
+    "path": "icons/navigation/grid.svg",
+    "style": "outline"
+  },
+  {
+    "name": "grid-filled",
+    "category": "navigation",
+    "path": "icons/navigation/grid-filled.svg",
+    "style": "filled"
+  },
+  {
+    "name": "layers",
+    "category": "navigation",
+    "path": "icons/navigation/layers.svg",
+    "style": "outline"
+  },
+  {
+    "name": "briefcase",
+    "category": "navigation",
+    "path": "icons/navigation/briefcase.svg",
+    "style": "outline"
+  },
+  {
+    "name": "users",
+    "category": "navigation",
+    "path": "icons/navigation/users.svg",
+    "style": "outline"
+  },
+  {
+    "name": "phone",
+    "category": "navigation",
+    "path": "icons/navigation/phone.svg",
+    "style": "outline"
+  },
+  {
+    "name": "globe",
+    "category": "navigation",
+    "path": "icons/navigation/globe.svg",
+    "style": "outline"
+  },
+  {
+    "name": "external-link",
+    "category": "navigation",
+    "path": "icons/navigation/external-link.svg",
+    "style": "outline"
+  },
+  {
+    "name": "chevron-left",
+    "category": "navigation",
+    "path": "icons/navigation/chevron-left.svg",
+    "style": "outline"
+  },
+  {
+    "name": "chevron-right",
+    "category": "navigation",
+    "path": "icons/navigation/chevron-right.svg",
+    "style": "outline"
+  },
+  {
+    "name": "arrow-left",
+    "category": "navigation",
+    "path": "icons/navigation/arrow-left.svg",
+    "style": "outline"
+  },
+  {
+    "name": "arrow-right",
+    "category": "navigation",
+    "path": "icons/navigation/arrow-right.svg",
+    "style": "outline"
+  },
+  {
+    "name": "chevron-down",
+    "category": "navigation",
+    "path": "icons/navigation/chevron-down.svg",
+    "style": "outline"
+  },
+  {
+    "name": "chevron-up",
+    "category": "navigation",
+    "path": "icons/navigation/chevron-up.svg",
+    "style": "outline"
+  },
+  {
+    "name": "link",
+    "category": "navigation",
+    "path": "icons/navigation/link.svg",
+    "style": "outline"
+  },
+  {
+    "name": "bookmark",
+    "category": "navigation",
+    "path": "icons/navigation/bookmark.svg",
+    "style": "outline"
+  },
+  {
+    "name": "bookmark-filled",
+    "category": "navigation",
+    "path": "icons/navigation/bookmark-filled.svg",
+    "style": "filled"
+  },
+  {
+    "name": "map-pin",
+    "category": "navigation",
+    "path": "icons/navigation/map-pin.svg",
+    "style": "outline"
+  },
+  {
+    "name": "calendar",
+    "category": "navigation",
+    "path": "icons/navigation/calendar.svg",
+    "style": "outline"
+  },
+  {
+    "name": "dashboard",
+    "category": "dashboard",
+    "path": "icons/dashboard/dashboard.svg",
+    "style": "outline"
+  },
+  {
+    "name": "dashboard-filled",
+    "category": "dashboard",
+    "path": "icons/dashboard/dashboard-filled.svg",
+    "style": "filled"
+  },
+  {
+    "name": "chart-bar",
+    "category": "dashboard",
+    "path": "icons/dashboard/chart-bar.svg",
+    "style": "outline"
+  },
+  {
+    "name": "chart-line",
+    "category": "dashboard",
+    "path": "icons/dashboard/chart-line.svg",
+    "style": "outline"
+  },
+  {
+    "name": "chart-pie",
+    "category": "dashboard",
+    "path": "icons/dashboard/chart-pie.svg",
+    "style": "outline"
+  },
+  {
+    "name": "activity",
+    "category": "dashboard",
+    "path": "icons/dashboard/activity.svg",
+    "style": "outline"
+  },
+  {
+    "name": "bell",
+    "category": "dashboard",
+    "path": "icons/dashboard/bell.svg",
+    "style": "outline"
+  },
+  {
+    "name": "bell-filled",
+    "category": "dashboard",
+    "path": "icons/dashboard/bell-filled.svg",
+    "style": "filled"
+  },
+  {
+    "name": "settings",
+    "category": "dashboard",
+    "path": "icons/dashboard/settings.svg",
+    "style": "outline"
+  },
+  {
+    "name": "file-text",
+    "category": "dashboard",
+    "path": "icons/dashboard/file-text.svg",
+    "style": "outline"
+  },
+  {
+    "name": "folder",
+    "category": "dashboard",
+    "path": "icons/dashboard/folder.svg",
+    "style": "outline"
+  },
+  {
+    "name": "folder-filled",
+    "category": "dashboard",
+    "path": "icons/dashboard/folder-filled.svg",
+    "style": "filled"
+  },
+  {
+    "name": "list",
+    "category": "dashboard",
+    "path": "icons/dashboard/list.svg",
+    "style": "outline"
+  },
+  {
+    "name": "clock",
+    "category": "dashboard",
+    "path": "icons/dashboard/clock.svg",
+    "style": "outline"
+  },
+  {
+    "name": "table",
+    "category": "dashboard",
+    "path": "icons/dashboard/table.svg",
+    "style": "outline"
+  },
+  {
+    "name": "filter",
+    "category": "dashboard",
+    "path": "icons/dashboard/filter.svg",
+    "style": "outline"
+  },
+  {
+    "name": "sliders",
+    "category": "dashboard",
+    "path": "icons/dashboard/sliders.svg",
+    "style": "outline"
+  },
+  {
+    "name": "gauge",
+    "category": "dashboard",
+    "path": "icons/dashboard/gauge.svg",
+    "style": "outline"
+  },
+  {
+    "name": "plus",
+    "category": "actions",
+    "path": "icons/actions/plus.svg",
+    "style": "outline"
+  },
+  {
+    "name": "minus",
+    "category": "actions",
+    "path": "icons/actions/minus.svg",
+    "style": "outline"
+  },
+  {
+    "name": "check",
+    "category": "actions",
+    "path": "icons/actions/check.svg",
+    "style": "outline"
+  },
+  {
+    "name": "x",
+    "category": "actions",
+    "path": "icons/actions/x.svg",
+    "style": "outline"
+  },
+  {
+    "name": "edit",
+    "category": "actions",
+    "path": "icons/actions/edit.svg",
+    "style": "outline"
+  },
+  {
+    "name": "delete",
+    "category": "actions",
+    "path": "icons/actions/delete.svg",
+    "style": "outline"
+  },
+  {
+    "name": "copy",
+    "category": "actions",
+    "path": "icons/actions/copy.svg",
+    "style": "outline"
+  },
+  {
+    "name": "download",
+    "category": "actions",
+    "path": "icons/actions/download.svg",
+    "style": "outline"
+  },
+  {
+    "name": "upload",
+    "category": "actions",
+    "path": "icons/actions/upload.svg",
+    "style": "outline"
+  },
+  {
+    "name": "refresh",
+    "category": "actions",
+    "path": "icons/actions/refresh.svg",
+    "style": "outline"
+  },
+  {
+    "name": "share",
+    "category": "actions",
+    "path": "icons/actions/share.svg",
+    "style": "outline"
+  },
+  {
+    "name": "more-horizontal",
+    "category": "actions",
+    "path": "icons/actions/more-horizontal.svg",
+    "style": "outline"
+  },
+  {
+    "name": "info",
+    "category": "actions",
+    "path": "icons/actions/info.svg",
+    "style": "outline"
+  },
+  {
+    "name": "help",
+    "category": "actions",
+    "path": "icons/actions/help.svg",
+    "style": "outline"
+  },
+  {
+    "name": "code",
+    "category": "development",
+    "path": "icons/development/code.svg",
+    "style": "outline"
+  },
+  {
+    "name": "api",
+    "category": "development",
+    "path": "icons/development/api.svg",
+    "style": "outline"
+  },
+  {
+    "name": "database",
+    "category": "development",
+    "path": "icons/development/database.svg",
+    "style": "outline"
+  },
+  {
+    "name": "server",
+    "category": "development",
+    "path": "icons/development/server.svg",
+    "style": "outline"
+  },
+  {
+    "name": "cloud",
+    "category": "development",
+    "path": "icons/development/cloud.svg",
+    "style": "outline"
+  },
+  {
+    "name": "bot",
+    "category": "development",
+    "path": "icons/development/bot.svg",
+    "style": "outline"
+  },
+  {
+    "name": "webhook",
+    "category": "development",
+    "path": "icons/development/webhook.svg",
+    "style": "outline"
+  },
+  {
+    "name": "cpu",
+    "category": "development",
+    "path": "icons/development/cpu.svg",
+    "style": "outline"
+  },
+  {
+    "name": "git-branch",
+    "category": "development",
+    "path": "icons/development/git-branch.svg",
+    "style": "outline"
+  },
+  {
+    "name": "git-merge",
+    "category": "development",
+    "path": "icons/development/git-merge.svg",
+    "style": "outline"
+  },
+  {
+    "name": "package",
+    "category": "development",
+    "path": "icons/development/package.svg",
+    "style": "outline"
+  },
+  {
+    "name": "rocket",
+    "category": "development",
+    "path": "icons/development/rocket.svg",
+    "style": "outline"
+  },
+  {
+    "name": "credit-card",
+    "category": "commerce",
+    "path": "icons/commerce/credit-card.svg",
+    "style": "outline"
+  },
+  {
+    "name": "wallet",
+    "category": "commerce",
+    "path": "icons/commerce/wallet.svg",
+    "style": "outline"
+  },
+  {
+    "name": "receipt",
+    "category": "commerce",
+    "path": "icons/commerce/receipt.svg",
+    "style": "outline"
+  },
+  {
+    "name": "shopping-cart",
+    "category": "commerce",
+    "path": "icons/commerce/shopping-cart.svg",
+    "style": "outline"
+  },
+  {
+    "name": "shopping-bag",
+    "category": "commerce",
+    "path": "icons/commerce/shopping-bag.svg",
+    "style": "outline"
+  },
+  {
+    "name": "shopping-bag-filled",
+    "category": "commerce",
+    "path": "icons/commerce/shopping-bag-filled.svg",
+    "style": "filled"
+  },
+  {
+    "name": "tag",
+    "category": "commerce",
+    "path": "icons/commerce/tag.svg",
+    "style": "outline"
+  },
+  {
+    "name": "coins",
+    "category": "commerce",
+    "path": "icons/commerce/coins.svg",
+    "style": "outline"
+  },
+  {
+    "name": "percent",
+    "category": "commerce",
+    "path": "icons/commerce/percent.svg",
+    "style": "outline"
+  },
+  {
+    "name": "message",
+    "category": "communication",
+    "path": "icons/communication/message.svg",
+    "style": "outline"
+  },
+  {
+    "name": "message-filled",
+    "category": "communication",
+    "path": "icons/communication/message-filled.svg",
+    "style": "filled"
+  },
+  {
+    "name": "message-square",
+    "category": "communication",
+    "path": "icons/communication/message-square.svg",
+    "style": "outline"
+  },
+  {
+    "name": "send",
+    "category": "communication",
+    "path": "icons/communication/send.svg",
+    "style": "outline"
+  },
+  {
+    "name": "mic",
+    "category": "communication",
+    "path": "icons/communication/mic.svg",
+    "style": "outline"
+  },
+  {
+    "name": "video",
+    "category": "communication",
+    "path": "icons/communication/video.svg",
+    "style": "outline"
+  },
+  {
+    "name": "headphones",
+    "category": "communication",
+    "path": "icons/communication/headphones.svg",
+    "style": "outline"
+  },
+  {
+    "name": "at-sign",
+    "category": "communication",
+    "path": "icons/communication/at-sign.svg",
+    "style": "outline"
+  },
+  {
+    "name": "contact",
+    "category": "communication",
+    "path": "icons/communication/contact.svg",
+    "style": "outline"
+  },
+  {
+    "name": "alert-triangle",
+    "category": "status",
+    "path": "icons/status/alert-triangle.svg",
+    "style": "outline"
+  },
+  {
+    "name": "alert-circle",
+    "category": "status",
+    "path": "icons/status/alert-circle.svg",
+    "style": "outline"
+  },
+  {
+    "name": "check-square",
+    "category": "status",
+    "path": "icons/status/check-square.svg",
+    "style": "outline"
+  },
+  {
+    "name": "circle-check",
+    "category": "status",
+    "path": "icons/status/circle-check.svg",
+    "style": "outline"
+  },
+  {
+    "name": "circle-check-filled",
+    "category": "status",
+    "path": "icons/status/circle-check-filled.svg",
+    "style": "filled"
+  },
+  {
+    "name": "circle-x",
+    "category": "status",
+    "path": "icons/status/circle-x.svg",
+    "style": "outline"
+  },
+  {
+    "name": "loader",
+    "category": "status",
+    "path": "icons/status/loader.svg",
+    "style": "outline"
+  },
+  {
+    "name": "heart",
+    "category": "status",
+    "path": "icons/status/heart.svg",
+    "style": "outline"
+  },
+  {
+    "name": "heart-filled",
+    "category": "status",
+    "path": "icons/status/heart-filled.svg",
+    "style": "filled"
+  },
+  {
+    "name": "star",
+    "category": "status",
+    "path": "icons/status/star.svg",
+    "style": "outline"
+  },
+  {
+    "name": "star-filled",
+    "category": "status",
+    "path": "icons/status/star-filled.svg",
+    "style": "filled"
+  }
+]

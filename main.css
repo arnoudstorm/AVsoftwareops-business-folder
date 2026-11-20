@@ -1,0 +1,227 @@
+body {
+    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+}
+
+.header-title {
+    background-color: lightblue;
+}
+
+.middle-section {
+    background-color: lightpink;
+    position: center;
+    font-size: larger;
+}
+.right-section {
+    background-color: lightcyan;
+}
+main {
+    background-color: lightblue;
+}
+
+footer {
+    background-color: lightpink;
+}
+.brand-assets {
+    size: 50%;
+}
+
+
+
+
+/* General page styling */
+body {
+    margin: 0;
+    background-color: #0B0B0D;
+    color: #F8F8F9;
+    font-family: "Roboto", sans-serif;
+}
+
+/* Navigation */
+.navbar {
+    background: #111113;
+    padding: 15px 40px;
+    border-bottom: 1px solid #383027;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+    color: #D4AF37;
+}
+
+/* Hero section */
+.hero {
+    min-height: 80vh;
+    padding: 80px 20px;
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+
+    background:
+        radial-gradient(
+            ellipse at 50% 40%,
+            rgba(212, 175, 55, 0.12),
+            transparent 65%
+        ),
+        linear-gradient(
+            135deg,
+            #0B0B0D,
+            #191716,
+            #0B0B0D
+        );
+}
+
+/* AV logo */
+.hero-logo {
+    width: min(750px, 90%);
+    height: auto;
+
+    animation:
+        logoEntrance 1.4s ease-out both,
+        logoFloat 6s ease-in-out 1.4s infinite;
+
+    filter: drop-shadow(
+        0 0 25px rgba(212, 175, 55, 0.15)
+    );
+}
+
+/* Heading */
+.hero h1 {
+    font-size: clamp(28px, 4vw, 56px);
+    margin: 35px 0 10px;
+    animation: fadeIn 1.5s ease-out both;
+}
+
+/* Description */
+.hero p {
+    color: #A0A0A8;
+    font-size: 18px;
+    max-width: 600px;
+}
+
+/* Button */
+.hero-button {
+    margin-top: 25px;
+    padding: 14px 30px;
+
+    color: #0B0B0D;
+    background: linear-gradient(
+        120deg,
+        #D4C1A1,
+        #F1E1C7,
+        #B89B6D
+    );
+
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+
+    transition:
+        transform 0.3s ease,
+        box-shadow 0.3s ease;
+}
+
+.hero-button:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 35px rgba(212, 175, 55, 0.22);
+}
+
+/* Entrance animation */
+@keyframes logoEntrance {
+    from {
+        opacity: 0;
+        transform: translateY(35px) scale(0.94);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+/* Floating logo animation */
+@keyframes logoFloat {
+    0%, 100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-12px);
+    }
+}
+
+/* General fade animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+    .navbar {
+        padding: 15px;
+    }
+
+    .navbar ul {
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .hero {
+        padding: 50px 20px;
+    }
+
+    .hero-logo {
+        width: 100%;
+    }
+
+    .hero p {
+        font-size: 16px;
+    }
+}
+
+/* Accessibility */
+@media (prefers-reduced-motion: reduce) {
+    .hero-logo,
+    .hero h1 {
+        animation: none;
+    }
+
+    .hero-button {
+        transition: none;
+    }
+}

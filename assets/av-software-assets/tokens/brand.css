@@ -1,0 +1,5 @@
+/* AV Software & Operations brand tokens: copy into your own CSS */
+:root { --av-bg:#F8F8F9; --av-surface:#FFFFFF; --av-text:#0B0B0D; --av-muted:#5B5B65; --av-border:#D7D3CC; --av-accent:#887A5A; --av-accent-text:#0B0B0D; --av-radius:12px; --av-font-heading:Manrope,Arial,sans-serif; --av-font-body:Inter,Arial,sans-serif; }
+[data-theme="dark"] { --av-bg:#0B0B0D; --av-surface:#1A1A1E; --av-text:#F8F8F9; --av-muted:#B4B4BD; --av-border:#363638; --av-accent:#D4C1A1; --av-accent-text:#0B0B0D; }
+.av-icon { width:24px; height:24px; display:inline-block; vertical-align:middle; }
+.av-brand { max-width:100%; height:auto; }
